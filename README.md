@@ -1,2 +1,2 @@
 # sallapuri
-murali repo
+murali repo for demo on github
